@@ -1,0 +1,19 @@
+This is a basic introduction to our project and the steps on how to execute our code
+
+----Introduction-----
+Our project aims to identify unusual characteristics that can be detected in a herd using prediction techniques. We have applied deep learning concepts to our project.
+
+----Execution steps----
+1) Download the training dataset from www.hackerearth.com
+2) Download a video of sheeps
+2) Create a blank result.csv file
+2) Create a blank test.csv file and have the names of the training images pasted as an entire column in that file and specify that path in the code 
+3) Open IDE(preferably PyCharm as its easy to download and implement all the packages required for this project) and paste the code in a .py file
+4) Install the required packages if its missing in the computer
+5) Change the path of the video in the code to the place where the video of the sheep is downloaded
+6) Create a testing dataset folder which will act as a place where the frames from the video will be storted
+7) Change the path of the testing dataset folder in the code appropriately
+8) Create another folder which will contain all the frames with bounds and change the path present in the code for this
+9) Specify a path where the output video should be stored after proper execution in the code
+10) Execute the code
+11) Check the output  
